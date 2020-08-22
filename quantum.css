@@ -1,0 +1,106 @@
+*{
+ margin: 0px;
+ padding:0px;
+
+
+
+
+}
+.head{
+
+text-align: center;
+border: 5px;
+border-color:red;
+background-color :springgreen;
+text-decoration-color: red;
+
+
+
+
+}
+.aboutme{
+
+margin-top: 20px;
+background: 5px solid red;
+text-align: center;
+background-color: springgreen;
+border: 5px solid black;
+
+
+
+}
+.img1{
+    text-align: center;
+    max-width: 100%;
+    max-height:100% ;
+    border: darkorange 5px solid;
+    background-color:black ;
+}
+.paypal{
+   margin-top: 20px;
+   text-align: center;
+   border: 5px solid red ;
+   background-color:springgreen ;   
+
+
+
+
+}
+.tesla{
+    margin-top: 20px;
+text-align: center;
+border: black 5px solid;
+background-color: springgreen;
+
+
+}
+.twono{
+    border: 5px solid black;
+}
+.tesla img{
+
+border: 5px solid red;
+
+
+}
+.spacex{
+    margin-top: 20px ;
+    border : 5px solid black;
+    text-align: center;
+    background-color: springgreen;
+
+
+
+
+}
+.spacex img{
+    
+
+border: 5px solid red;
+
+
+
+}
+.openai{
+    margin-top: 20px;
+
+border: 5px sold black;
+background-color:springgreen;
+text-align:center;
+
+
+}
+.openai img{
+border: 5px solid red;
+background-color: seashell;
+
+
+
+}
+.navbar-nav :hover{
+
+background-color: tomato;
+
+
+
+}
